@@ -1,0 +1,43 @@
+{
+  "name": "kinoko-komori",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp yang diberi nama Kinoko Komori, terinspirasi dari karakter Kinoko Komori dari Boku no Hero Academia. Bot ini dirancang untuk menangani berbagai fitur komunikasi di WhatsApp dengan integrasi API menggunakan Baileys dan beberapa dependensi lainnya.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "zaenishi",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@google-cloud/speech": "^6.7.0",
+    "@google-cloud/text-to-speech": "^5.5.0",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^0.24.0",
+    "baileys": "^6.7.8",
+    "chalk": "^4.1.2",
+    "cheerio": "latest",
+    "child_process": "^1.0.2",
+    "crypto": "*",
+    "express": "^4.18.1",
+    "fetch": "^1.1.0",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "*",
+    "fs": "0.0.1-security",
+    "jsdom": "^25.0.1",
+    "moment-timezone": "^0.5.34",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "node-webpmux": "^3.1.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pino": "^7.0.5",
+    "qrcode": "npm:code-qr@^1.5.1",
+    "qrcode-terminal": "^0.12.0",
+    "util": "^0.12.4",
+    "yt-search": "^2.12.1"
+  }
+}

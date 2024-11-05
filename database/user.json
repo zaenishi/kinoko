@@ -1,0 +1,23 @@
+{
+  "6283188229366@s.whatsapp.net": [
+    {
+      "sesiBantuan": false
+    }
+  ],
+  "6283879020370@s.whatsapp.net": [
+    {
+      "sesiBantuan": true
+    },
+    {
+      "sisaBantuan": 0
+    }
+  ],
+  "6281276400345@s.whatsapp.net": [
+    {
+      "sesiBantuan": true
+    },
+    {
+      "sisaBantuan": 0
+    }
+  ]
+}
